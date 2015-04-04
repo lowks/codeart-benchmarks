@@ -50,7 +50,7 @@ setup(name='codeart-benchmarks',
       author="paulocheque",
       author_email='paulocheque@gmail.com',
       keywords='python django testing fixture',
-      description='',
+      description='codeart-benchmarks',
       license='MIT',
       classifiers=[
           'Framework :: Django',
